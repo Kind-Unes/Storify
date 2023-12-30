@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+min-height: 100vh;
+width: 100%;
+background: #FFE1CC;
+background: #FFE1CC;
+position: relative; 
+
+}
+
+.a ul {
+    position: absolute;
+    width: 1433px;
+    height: 50px;
+    background-color: #ed9d2d;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    padding-right: 30px;
+    
+}
+
+.a ul li {
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    list-style-type: none;
+    font-weight: bold;
+    margin-left: 70px;
+    
+    
+}
+
+.a ul li a {
+    text-decoration: none;
+    color: black;
+    margin-left: 210px;
+}
+
+
+.im1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 200px;
+}
+.im2{
+    position: absolute;
+    top: 100px;
+    left: 0;
+    height: 200px;
+}
+.im3{
+    position: absolute;
+    top: 500px;
+    left: 0;
+    height: 200px;
+}
+.im4{
+    position: absolute;
+    top: 560px;
+    left: 0;
+    height: 150px;
+}
+.im5{
+    position: absolute;
+    top: 590px;
+    left: 0;
+    height: 120px;
+}
+.im6{
+    position: absolute;
+    top: 480px;
+    left: 150px;
+    height: 230px;
+}
+.im7{
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    height: 500px;
+}
+.im9{
+    position: absolute;
+    top: 600px;
+    left: 300px;
+    height: 110px;
+}
+.im10{
+    position: absolute;
+    top: 120px;
+    right: 0;
+    height: 400px;
+}
+.im11{
+    position: absolute;
+    top: 400px;
+    right: 0;
+    height: 160px;
+}
+
+.im12{
+    position: absolute;
+    top: 590px;
+    right: 0;
+    height: 120px;
+}
+.im13{
+    position: absolute;
+    top: 580px;
+    right: 0;
+    height: 130px;
+}
+.logo{
+    font-size: 180px;
+    position: absolute;
+    top: 140px;
+    left: 730px;
+    font-family: 'Dancing Script', cursive;
+}
+.title{
+    font-size: 40px;
+    position: absolute;
+    top: 410px;
+    left: 780px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+.cr{
+    font-family: 'Dancing Script', cursive;
+
+    font-size: 30px;
+    position: absolute;
+    top: 510px;
+    left: 900px;
+    width: 280px;   
+    height: 59px;
+    color: black;
+    background-color:#FF7B4D;
+    border-radius:10px ;
+   
+}
+
+
+.cr a{
+    
+    text-decoration: none;
+    color: black;
+}
+
+.img1{
+    position: absolute;
+    top: 0;
+    height: 230px;
+   left: 0px;
+
+}
+
+
