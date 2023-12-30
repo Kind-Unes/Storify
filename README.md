@@ -38,7 +38,7 @@ to lazy ppl like me (XD) who prefer not to compile/download/use the app  :)
 - Special thanks to the Figma community for providing the designs since we are noobs in UI/UX.
     - [Mobile Design](https://www.figma.com/file/7hFfvcVfhIpB18j9kMzA1y/Kindergarten-Learning-UI---Mobile-App-(Community)?type=design&node-id=1-2&mode=design&t=NzgNHDAHg65yDjzA-0)  
     - Web Design: I joined later in the process so i dont have a link, but the design originated from the Figma community. 
-- Appreciation to [Kind-Unes](https://github.com/Kind-Unes) for the heavy lifting. Despite differing beliefs and a lot of ups and downs, thank you. 
+- Appreciation to [t-88](https://github.com/t-88) for the heavy lifting. Despite differing beliefs and a lot of ups and downs, thank you. 
 - Thanks to Batoure, the beginner web developer; I hope you learned a lot from our collaboration.
 - Gratitude to the organizers for handling nerds like us.
 
